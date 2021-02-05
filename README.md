@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project is a boilerplate for a React/Redux web application using [Material-UI](https://material-ui.com/).
+
 ## Available Scripts
 
 In the project directory, you can run:
