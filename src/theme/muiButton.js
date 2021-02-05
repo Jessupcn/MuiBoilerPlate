@@ -3,7 +3,7 @@
  * example of how to structure override file
  */
 
-import { theme } from './theme'
+import { theme } from './theme';
 // import textlinkArrow from './icon-path' <-- if we want to put on arrow icon
 
 export const MuiButton = {
@@ -35,4 +35,4 @@ export const MuiButton = {
     // css
     // fontsize: '14px' ??
   },
-}
+};

@@ -24,8 +24,8 @@ const Palette = {
   green: {
     light: '#',
     main: '#',
-    dark: '#'
-  }
+    dark: '#',
+  },
 };
 
 // examples of applying some initial colors

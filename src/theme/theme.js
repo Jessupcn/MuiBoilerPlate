@@ -1,7 +1,7 @@
 // Set MUI Theme
-import { createMuiTheme } from '@material-ui/core/styles'
-import { Palette } from './palette'
-import { Props } from './props'
+import { createMuiTheme } from '@material-ui/core/styles';
+import { Palette } from './palette';
+import { Props } from './props';
 
 // create theme and apply defaults
 export const theme = createMuiTheme({
@@ -11,8 +11,8 @@ export const theme = createMuiTheme({
       sm: 320, // mobile minimum
       md: 768, // tablet minimum
       lg: 1024, // desktop minimum
-      xl: 1420
-    }
+      xl: 1420,
+    },
   },
   typography: {
     // apply fonts here
@@ -22,4 +22,4 @@ export const theme = createMuiTheme({
   },
   palette: Palette,
   props: Props,
-})
+});
